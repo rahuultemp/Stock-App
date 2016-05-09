@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint" traslatable="false">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+    <string name="widget_title">Market Today</string>
+
+    <!-- Content Descriptions -->
+
+    <string name="talk_back_fab_button">"Add Stock Symbol"</string>
+    <string name="talk_back_stock_symbol">"Stock Symbol"</string>
+    <string name="talk_back_change">"Change"</string>
+    <string name="talk_back_bid_price">"Bid price"</string>
+    <string name="talk_back_percent_change">"Percent change "</string>
+</resources>
